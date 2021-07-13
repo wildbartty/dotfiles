@@ -1,0 +1,12 @@
+ls
+cd ..
+cmake -DCMAKE_BUILD_TYPE=debug cmake .
+make
+valgrind ./mariner 
+make
+valgrind ./mariner 
+make
+./mariner 
+make
+./mariner 
+valgrind ./mariner 

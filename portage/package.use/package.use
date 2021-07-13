@@ -1,0 +1,79 @@
+#########################################################################
+# $Header: /etc/portage/package.use/package.use created by Porthole's set_config.py v: 1.1, 2018/09/25 10:49:59, Exp $
+
+sys-apps/man-db manpager static-libs
+media-fonts/dina X
+x11-libs/cairo opengl xcb
+media-fonts/terminus-font X
+app-editors/emacs X motif libxml2 sound gpm gsettings xft
+media-sound/alsa-utils bat
+net-analyzer/nmap ncat
+app-emulation/qemu gtk qemu_softmmu_targets_aarch64 qemu_softmmu_m68k qemu_softmmu_targets_xtensa qemu_softmmu_riscv64 qemu_softmmu_targets_ppc opengl spice usb usbredir virgl virtfs qemu_softmmu_targets_arm
+app-text/mupdf X
+media-libs/clutter X
+x11-libs/gdk-pixbuf X
+x11-libs/pango X
+x11-terms/xterm -openpty
+app-emulation/virt-manager gtk
+sys-apps/dbus X
+dev-cpp/cairomm X
+media-gfx/graphviz X
+www-client/w3m imlib
+x11-terms/rxvt-unicode xft unicode3
+media-fonts/unifont X
+media-video/obs-studio v4l speex
+x11-libs/libva X drm opengl vdpau -utils
+media-libs/mesa vdpau vulkan vaapi gles1
+net-ftp/pure-ftpd postgres
+net-libs/zeromq doc
+net-libs/czmq doc
+media-sound/lmms libgig stk
+x11-libs/libdrm -video_cards_nouveau
+dev-cpp/gtkmm X
+dev-util/vulkan-tools X
+app-office/libreoffice postgres pdfimport gstreamer vlc googledrive
+media-gfx/blender cycles openimageio colorio
+games-puzzle/ltris -fluidsynth
+media-libs/sdl-mixer -fluidsynth mad
+media-libs/libsdl X
+media-libs/libsdl2 X vulkan libsamplerate haptic
+net-misc/freerdp X ffmpeg xv
+media-video/ffmpeg openssl
+media-libs/allegro X opengl opus truetype
+#sys-auth/polkit consolekit
+sys-devel/gdb multitarget
+app-admin/rsyslog postgres openssl usertools
+media-video/vlc libass pulseaudio opus
+app-emulation/lxd tools
+=x11-libs/wxGTK-3.0.4 abi_x86_32 opengl
+games-emulation/retroarch X
+games-emulation/pcsxr alsa -libav opengl ffmpeg -sdl
+games-emulation/libretro-meta -fbalpha -reicast -stella
+media-plugins/calf gtk
+dev-lang/erlang odbc wxwidgets
+dev-db/unixODBC -minimal odbcmanual
+games-misc/fortune-mod offensive
+net-misc/remmina rdp
+games-emulation/nestopia gui
+sys-libs/pam abi_x86_32
+net-misc/aria2 bittorrent
+
+app-emulation/wine-vanilla pulseaudio
+
+net-fs/samba client
+
+app-editors/emacs gui
+
+media-libs/sdl2-gfx doc
+
+dev-util/vulkan-tools cube
+x11-misc/xscreensaver gdm offensive opengl -perl
+
+dev-games/guichan opengl sdl
+media-libs/assimp doc samples
+media-sound/pulseaudio bluetooth native-headset ofono-headset
+www-client/firefox -jack pulseaudio
+media-gfx/gnome-screenshot X
+app-emulation/vagrant -virtualbox
+sys-fs/android-file-transfer-linux qt5
+app-portage/layman sync-plugin-portage git

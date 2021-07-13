@@ -1,0 +1,897 @@
+# package.accept_keywords# required by =sys-kernel/gentoo-sources-4.18.6 (argument)
+>=sys-kernel/gentoo-sources-4.18.6 ~amd64
+# required by dev-libs/iniparser:4 (argument)
+=dev-libs/iniparser-4.1 ~amd64
+# required by =dev-lang/erlang-21.0.9 (argument)
+=dev-lang/erlang-21.0.9 ~amd64
+# required by ponysay (argument)
+=games-misc/ponysay-3.0.2 ~amd64
+# required by dev-qt/qtconcurrent-5.9.6::gentoo
+# required by media-sound/clementine-1.3.1_p20180416::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-qt/qtcore-5.9.6-r1 ~amd64
+# required by qt-virt-manager (argument)
+=app-emulation/qt-virt-manager-9999 **
+# required by darkplaces (argument)
+=games-fps/darkplaces-20140513-r1 ~amd64
+# required by gcc:8.2.0 (argument)
+=sys-devel/gcc-8.2.0-r4 ~amd64
+# required by nethack (argument)
+=games-roguelike/nethack-3.6.1 ~amd64
+# required by gentoo-sources:4.19.0 (argument)
+=sys-kernel/gentoo-sources-4.19.0 ~amd64
+# required by android-file-transfer-linux (argument)
+=sys-fs/android-file-transfer-linux-3.5 ~amd64
+# required by gentoo-sources:4.19.1 (argument)
+=sys-kernel/gentoo-sources-4.19.1 ~amd64
+# required by =sys-kernel/git-sources-5.0_rc7 (argument)
+=sys-kernel/git-sources-5.0_rc7 ~amd64
+# required by bonesi (argument)
+=net-analyzer/bonesi-9999 ~amd64
+# required by net-analyzer/openvas-9.0.3::pentoo
+# required by openvas (argument)
+=net-analyzer/openvas-cli-1.4.5 ~amd64
+# required by net-analyzer/openvas-9.0.3::pentoo
+# required by openvas (argument)
+=net-analyzer/openvas-tools-0_pre20512 ~amd64
+# required by net-analyzer/openvas-9.0.3::pentoo
+# required by openvas (argument)
+=net-analyzer/openvas-scanner-5.1.3 ~amd64
+# required by openvas (argument)
+=net-analyzer/openvas-9.0.3 ~amd64
+# required by net-analyzer/openvas-9.0.3::pentoo
+# required by openvas (argument)
+=net-analyzer/openvas-libraries-9.0.3 ~amd64
+# required by net-analyzer/openvas-9.0.3::pentoo
+# required by openvas (argument)
+=net-analyzer/openvas-manager-7.0.3 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/esmre-0.3.1 ~amd64
+# required by w3af (argument)
+=net-analyzer/w3af-1.6.54-r4 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/guess-language-0.5.2 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/pybloomfiltermmap-0.3.15 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/DartsPyLRU-0.5 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-db/sqlmap-1.3.2 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/stopit-1.1.2 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/vulndb-0.1.1 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/phply-1.2.5 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/ruamel-ordereddict-0.4.13 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/halberd-0.2.4-r1 ~amd64
+# required by net-analyzer/w3af-1.6.54-r4::pentoo
+# required by w3af (argument)
+=dev-python/python-ntlm-1.1.0-r1 ~amd64
+# required by exploitdb (argument)
+=app-exploits/exploitdb-9999 ~amd64
+# required by seclists (argument)
+=app-dicts/seclists-2019.1 ~amd64
+# required by dev-ruby/packetfu-1.1.13::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/network_interface-0.0.2 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/ed25519-1.2.4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/patch_finder-1.0.2 ~amd64
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasploit-model-2.0.4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/mqtt-0.5.0 ~amd64
+# required by dev-ruby/activerecord-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/arel-helpers-2.8.0::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/arel-6.0.4 ~amd64
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/recog-2.1.31 ~amd64
+# required by dev-ruby/sawyer-0.8.1::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/octokit-4.13.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/faraday-0.15.4 ~amd64
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/arel-helpers-2.8.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/jsobfu-0.4.2 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/backports-3.11.4 ~amd64
+# required by dev-ruby/faraday-0.15.4::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/sawyer-0.8.1::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/octokit-4.13.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/multipart-post-2.0.0-r1 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/dnsruby-1.61.2 ~amd64
+# required by dev-ruby/ruby_smb-1.0.5::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/bindata-2.4.1 ~amd64
+# required by dev-ruby/actionview-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/actionpack-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/railties-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/activesupport-4.2.11 ~amd64
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/postgres_ext-3.0.1 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-sslscan-0.1.5 ~amd64
+# required by dev-ruby/rex-exploitation-0.1.20::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-encoder-0.1.4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/ruby_smb-1.0.5 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasploit_data_models-2.0.16 ~amd64
+# required by dev-ruby/metasploit-concern-2.0.5::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/railties-4.2.11 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-zip-0.1.3 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-nop-0.1.1 ~amd64
+# required by dev-ruby/packetfu-1.1.13::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/pcaprub-0.12.4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasploit-credential-2.0.14 ~amd64
+# required by dev-ruby/octokit-4.13.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/sawyer-0.8.1 ~amd64
+# required by dev-ruby/pdf-reader-2.2.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/afm-0.2.2 ~amd64
+# required by dev-ruby/pdf-reader-2.2.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/ttfunk-1.5.1 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24,pcap]
+# required by metasploit (argument)
+=dev-ruby/pcaprub-0.13.0 ~amd64
+# required by dev-ruby/activerecord-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/arel-helpers-2.8.0::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/activemodel-4.2.11 ~amd64
+# required by dev-ruby/postgres_ext-3.0.1::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/arel-9.0.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-java-0.1.5 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/sshkey-2.0.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo
+# required by metasploit (argument)
+=app-eselect/eselect-metasploit-0.16 ~amd64
+# required by dev-ruby/jsobfu-0.4.2::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/rex-exploitation-0.1.20::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rkelly-remix-0.0.7 ~amd64
+# required by dev-ruby/rex-encoder-0.1.4::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/rex-exploitation-0.1.20::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-arch-0.1.13 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/ruby-macho-2.1.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/msgpack-1.2.6 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasploit-payloads-1.3.53 ~amd64
+# required by dev-ruby/postgres_ext-3.0.1::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/pg_array_parser-0.0.9-r2 ~amd64
+# required by dev-ruby/railties-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/actionpack-4.2.11 ~amd64
+# required by dev-ruby/rex-exploitation-0.1.20::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasm-1.0.2-r4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rb-readline-0.5.5 ~amd64
+# required by metasploit (argument)
+=net-analyzer/metasploit-4.17.21-r4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-bin_tools-0.1.6 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/packetfu-1.1.13 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-powershell-0.1.77 ~amd64
+# required by dev-ruby/pdf-reader-2.2.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/hashery-2.1.2 ~amd64
+# required by dev-ruby/actionpack-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/railties-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rails-dom-testing-1.0.8-r1 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-mime-0.1.5 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/bit-struct-0.16 ~amd64
+# required by dev-ruby/rex-mime-0.1.5::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-text-0.2.21 ~amd64
+# required by dev-ruby/pdf-reader-2.2.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/ruby-rc4-0.1.5-r2 ~amd64
+# required by dev-ruby/ruby_smb-1.0.5::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/windows_error-0.1.2 ~amd64
+# required by dev-ruby/actionpack-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/railties-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/actionview-4.2.11 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-rop_builder-0.1.3 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-exploitation-0.1.20 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/octokit-4.13.0 ~amd64
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rubyntlm-0.6.2 ~amd64
+# required by dev-ruby/rex-bin_tools-0.1.6::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-struct2-0.1.2 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasploit_payloads-mettle-0.4.2 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/xdr-2.0.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/pdf-reader-2.2.0 ~amd64
+# required by dev-ruby/rails-dom-testing-1.0.8-r1::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/actionview-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/actionpack-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/railties-4.2.11::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rails-deprecated_sanitizer-1.0.3-r2 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-registry-0.1.3 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/openssl-ccm-1.2.1 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/faker-1.9.3 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-ole-0.1.6 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/filesize-0.2.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-random_identifier-0.1.4 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-core-0.1.13 ~amd64
+# required by dev-ruby/pdf-reader-2.2.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/ascii85-1.0.3 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/rex-socket-0.1.16 ~amd64
+# required by dev-ruby/arel-helpers-2.8.0::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/activerecord-4.2.11 ~amd64
+# required by dev-ruby/metasploit-credential-2.0.14::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24]
+# required by metasploit (argument)
+=dev-ruby/metasploit-concern-2.0.5 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r4::gentoo[ruby_targets_ruby24,java]
+# required by metasploit (argument)
+=dev-ruby/rjb-1.5.7 ~amd64
+# required by protos (argument)
+=app-fuzz/protos-1.1-r1 **
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=media-video/obs-studio-22.0.3 ~amd64
+# required by dev-qt/qtprintsupport-5.12.1::gentoo
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qtcore-5.12.1 ~amd64
+# required by dev-qt/qtwebengine-5.12.1::gentoo[widgets]
+# required by @preserved-rebuild (argument)
+=dev-qt/qtdeclarative-5.12.1 ~amd64
+# required by dev-qt/qtgui-5.12.1-r1::gentoo[dbus]
+# required by dev-qt/qtdeclarative-5.12.1::gentoo
+# required by dev-qt/qtwebchannel-5.12.1::gentoo[qml]
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qtdbus-5.12.1 ~amd64
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qtwebchannel-5.12.1 ~amd64
+# required by dev-qt/qtdeclarative-5.12.1::gentoo
+# required by dev-qt/qtwebchannel-5.12.1::gentoo[qml]
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qtgui-5.12.1-r1 ~amd64
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qtprintsupport-5.12.1 ~amd64
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qtnetwork-5.12.1 ~amd64
+# required by dev-qt/qtwebengine-5.12.1::gentoo[widgets]
+# required by @preserved-rebuild (argument)
+=dev-qt/qtwidgets-5.12.1 ~amd64
+# required by dev-qt/qtdeclarative-5.12.1::gentoo[-test]
+# required by dev-qt/qtwebchannel-5.12.1::gentoo[qml]
+# required by dev-qt/qtwebengine-5.12.1::gentoo
+# required by @preserved-rebuild (argument)
+=dev-qt/qttest-5.12.1 ~amd64
+# required by @preserved-rebuild (argument)
+=dev-qt/qtwebengine-5.12.1 ~amd64
+# required by sys-devel/clang-runtime-7.0.1::gentoo[compiler-rt]
+# required by sys-devel/clang-7.0.1::gentoo
+# required by sys-libs/compiler-rt-sanitizers-7.0.1::gentoo[clang]
+=sys-libs/compiler-rt-7.0.1 ~amd64
+# required by sys-devel/clang-7.0.1::gentoo
+# required by sys-libs/compiler-rt-7.0.1::gentoo[clang]
+# required by sys-devel/clang-runtime-7.0.1::gentoo[compiler-rt]
+=sys-devel/llvm-7.0.1 ~amd64
+# required by sys-devel/clang-runtime-7.0.1::gentoo[compiler-rt,sanitize]
+# required by sys-devel/clang-7.0.1::gentoo
+# required by sys-libs/compiler-rt-7.0.1::gentoo[clang]
+=sys-libs/compiler-rt-sanitizers-7.0.1 ~amd64
+# required by dev-libs/libclc-0.2.0_pre20180915::gentoo
+# required by media-libs/mesa-18.3.1::gentoo
+# required by @selected
+# required by @world (argument)
+=sys-devel/clang-7.0.1 ~amd64
+# required by sys-devel/clang-runtime-7.0.1::gentoo[openmp]
+# required by sys-devel/clang-7.0.1::gentoo
+# required by sys-libs/compiler-rt-7.0.1::gentoo[clang]
+=sys-libs/libomp-7.0.1-r1 ~amd64
+# required by sys-devel/clang-7.0.1::gentoo
+# required by sys-libs/compiler-rt-7.0.1::gentoo[clang]
+=sys-devel/clang-runtime-7.0.1 ~amd64
+# required by media-sound/clementine-1.3.1_p20181112::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-qt/qtx11extras-5.12.1 ~amd64
+# required by linguist-tools (argument)
+=dev-qt/linguist-tools-5.12.1 ~amd64
+# required by dev-qt/linguist-tools-5.12.1::gentoo
+# required by linguist-tools (argument)
+=dev-qt/qtxml-5.12.1 ~amd64
+# required by qtsvg (argument)
+=dev-qt/qtsvg-5.12.1 ~amd64
+# required by qtopengl (argument)
+=dev-qt/qtopengl-5.12.1 ~amd64
+# required by qtsql (argument)
+=dev-qt/qtsql-5.12.1 ~amd64
+# required by qtconcurrent (argument)
+=dev-qt/qtconcurrent-5.12.1 ~amd64
+# required by slack-bin (argument)
+=net-im/slack-bin-3.3.7 ~amd64
+# required by projectlibre-bin (argument)
+=app-office/projectlibre-bin-1.6.2 ~amd64
+# required by =games-emulation/dolphin-9999 (argument)
+=games-emulation/dolphin-9999 **
+# required by dev-util/cutter-1.7.4::pentoo
+# required by dev-util/cutter (argument)
+=dev-util/radare2-3.3.0 ~amd64
+# required by dev-util/cutter (argument)
+=dev-util/cutter-1.7.4 ~amd64
+# required by dev-util/radare2-3.3.0::gentoo
+# required by dev-util/cutter-1.7.4::pentoo
+# required by dev-util/cutter (argument)
+=dev-libs/capstone-4.0.1-r1 ~amd64
+# required by games-arcade/nottetris2-1-r1::gentoo
+# required by nottetris2 (argument)
+=games-engines/love-0.7.2-r2 ~amd64
+# required by nottetris2 (argument)
+=games-arcade/nottetris2-1-r1 ~amd64
+# required by =games-engines/love-0.10.2 (argument)
+=games-engines/love-0.10.2 ~amd64
+# required by netris (argument)
+=games-arcade/netris-0.52-r2 ~amd64
+# required by fbg (argument)
+=games-puzzle/fbg-0.9-r2 ~amd64
+# required by ltris (argument)
+=games-puzzle/ltris-1.0.19-r1 ~amd64
+# required by gforth (argument)
+=dev-lang/gforth-0.7.3-r1 ~amd64
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.9 ~amd64
+# required by cowsay (argument)
+=games-misc/cowsay-3.03-r2 ~amd64
+# required by games-misc/lolcat-90.8.8::gentoo[ruby_targets_ruby24]
+# required by lolcat (argument)
+=dev-ruby/paint-2.1.0 ~amd64
+# required by lolcat (argument)
+=games-misc/lolcat-90.8.8 ~amd64
+# required by games-util/steam-meta-0-r20160817::steam-overlay
+# required by steam-meta (argument)
+=games-util/steam-client-meta-0-r20190331 ~amd64
+# required by games-util/steam-meta-0-r20160817::steam-overlay
+# required by steam-meta (argument)
+=games-util/steam-launcher-1.0.0.59-r1 ~amd64
+# required by games-util/steam-meta-0-r20160817::steam-overlay[steamruntime]
+# required by steam-meta (argument)
+=games-util/steam-games-meta-0-r20190316 ~amd64
+# required by steam-meta (argument)
+=games-util/steam-meta-0-r20160817 ~amd64
+# required by =games-engines/love-11.1 (argument)
+=games-engines/love-11.1 ~amd64
+# required by virtual/perl-Storable-2.560.100_rc-r4::gentoo
+# required by dev-perl/Date-Manip-6.600.0::gentoo
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-lang/perl-5.24.4 ~amd64
+# required by =dev-util/cmake-3.13.4 (argument)
+=dev-util/cmake-3.13.4 ~amd64
+#=x11-libs/libva-2.3.0 ~amd64
+# required by box2d (argument)
+=dev-libs/box2d-2.3.1 ~amd64
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=media-video/obs-studio-23.1.0-r1 ~amd64
+# required by @selected
+# required by @world (argument)
+=games-util/steam-launcher-1.0.0.59-r3 ~amd64
+# required by @selected
+# required by @world (argument)
+=games-misc/ponysay-3.0.3 ~amd64
+# required by @selected
+# required by @world (argument)
+=dev-lang/mlton-20180207 ~amd64
+# required by @selected
+# required by @world (argument)
+=sys-kernel/git-sources-5.2_rc3 ~amd64
+# required by @selected
+# required by @world (argument)
+=games-emulation/desmume-0.9.11-r1 ~amd64
+# required by @selected
+# required by @world (argument)
+=games-emulation/mednafen-0.9.46 ~amd64
+# required by @selected
+# required by @world (argument)
+=app-emulation/qemu-init-scripts-0.3.0 ~amd64
+# required by @selected
+# required by @world (argument)
+=media-sound/lmms-1.2.0_rc8 ~amd64
+# required by @selected
+# required by @world (argument)
+=games-emulation/mednaffe-0.8.7 ~amd64
+# required by @selected
+# required by @world (argument)
+=app-misc/radeontop-1.1 ~amd64
+# required by @selected
+# required by @world (argument)
+=dev-lang/open-cobol-1.1 ~amd64
+# required by @selected
+# required by @world (argument)
+=net-im/slack-bin-3.4.0 ~amd64
+# required by @selected
+# required by @world (argument)
+=sys-auth/pam-pgsql-0.7.3.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=dev-util/rebar-bin-3.6.2 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[video-rice]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-video-rice-2.5 ~amd64
+# required by games-emulation/mupen64plus-audio-sdl-2.5::gentoo
+# required by games-emulation/mupen64plus-2.5::gentoo[audio-sdl]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-core-2.5-r1 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[input-sdl]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-input-sdl-2.5 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[video-glide64mk2]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-video-glide64mk2-2.5 ~amd64
+# required by games-emulation/m64py-0.2.4::gentoo
+# required by games-emulation/mupen64plus-2.5::gentoo[ui-m64py]
+# required by mupen64plus (argument)
+=dev-python/PySDL2-0.9.6 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[audio-sdl]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-audio-sdl-2.5 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[ui-console]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-ui-console-2.5-r1 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[ui-m64py]
+# required by mupen64plus (argument)
+=games-emulation/m64py-0.2.4 ~amd64
+# required by games-emulation/mupen64plus-2.5::gentoo[rsp-hle]
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-rsp-hle-2.5 ~amd64
+# required by mupen64plus (argument)
+=games-emulation/mupen64plus-2.5 ~amd64
+# required by games-emulation/libretro-meta-1-r4::abendbrot[desmume]
+# required by games-emulation/retroarch-1.6.7::abendbrot[cores]
+# required by retroarch (argument)
+=games-emulation/desmume-libretro-1.0_pre20180311 ~amd64
+# required by games-emulation/libretro-meta-1-r4::abendbrot[ppsspp]
+# required by games-emulation/retroarch-1.6.7::abendbrot[cores]
+# required by retroarch (argument)
+=games-emulation/ppsspp-libretro-1.0_pre20180328 ~amd64
+# required by pcsxr (argument)
+=games-emulation/pcsxr-1.9.94-r2 ~amd64
+# required by @preserved-rebuild (argument)
+=media-video/obs-studio-23.2.1 ~amd64
+# required by advancemame (argument)
+=games-emulation/advancemame-3.7 ~amd64
+# required by asteroid (argument)
+=games-arcade/asteroid-1.2.1 ~amd64
+# required by triplexinvaders (argument)
+=games-arcade/triplexinvaders-1.08-r1 ~amd64
+# required by notpacman (argument)
+=games-arcade/notpacman-1.0.4-r1 ~amd64
+# required by nestopia (argument)
+=games-emulation/nestopia-1.47_p20170105 ~amd64
+# required by higan (argument)
+=games-emulation/higan-106_p1-r1 ~amd64
+# required by megatools (argument)
+=net-misc/megatools-1.10.2-r1 ~amd64
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.10 ~amd64
+# required by =dev-qt/qtdbus-5.12.3 (argument)
+=dev-qt/qtdbus-5.12.3 **
+# required by =dev-qt/qttest-5.12.3 (argument)
+=dev-qt/qttest-5.12.3 **
+# required by =dev-qt/qtgui-5.12.3-r1 (argument)
+=dev-qt/qtgui-5.12.3-r1 **
+# required by =dev-qt/qtsvg-5.12.3 (argument)
+=dev-qt/qtsvg-5.12.3 **
+# required by =dev-qt/qtsql-5.12.3 (argument)
+=dev-qt/qtsql-5.12.3 **
+# required by =dev-qt/qtwidgets-5.12.3 (argument)
+=dev-qt/qtwidgets-5.12.3 **
+# required by =dev-qt/qtprintsupport-5.12.3 (argument)
+=dev-qt/qtprintsupport-5.12.3 **
+# required by =dev-qt/qtxml-5.12.3 (argument)
+=dev-qt/qtxml-5.12.3 **
+# required by =dev-qt/linguist-tools-5.12.3 (argument)
+=dev-qt/linguist-tools-5.12.3 **
+# required by =dev-qt/qtdeclarative-5.12.3 (argument)
+=dev-qt/qtdeclarative-5.12.3 **
+# required by =dev-qt/qtmultimedia-5.12.3 (argument)
+=dev-qt/qtmultimedia-5.12.3 **
+# required by =dev-qt/qtnetwork-5.12.3 (argument)
+=dev-qt/qtnetwork-5.12.3 **
+# required by dev-qt/qtsql-5.12.3::gentoo
+# required by =dev-qt/qtsql-5.12.3 (argument)
+=dev-qt/qtcore-5.12.3-r2 **
+# required by =dev-qt/qtquickcontrols-5.12.3 (argument)
+=dev-qt/qtquickcontrols-5.12.3 **
+# required by net-wireless/wifite-2.2.5-r3::pentoo
+# required by wifite (argument)
+=net-wireless/hcxtools-5.3.0 ~amd64
+# required by reaver (argument)
+=net-wireless/reaver-1.6.5 ~amd64
+# required by net-wireless/wifite-2.2.5-r3::pentoo[opencl]
+# required by wifite (argument)
+=app-crypt/hashcat-5.1.0 ~amd64
+# required by app-crypt/hashcat-5.1.0::gentoo
+# required by net-wireless/wifite-2.2.5-r3::pentoo[opencl]
+# required by wifite (argument)
+=app-arch/lzma-9.20-r1 ~amd64
+# required by net-wireless/cpyrit-opencl-0.5.0::gentoo
+# required by net-wireless/pyrit-0.5.0_p20180801::pentoo[opencl]
+# required by net-wireless/wifite-2.2.5-r3::pentoo
+# required by wifite (argument)
+=net-wireless/pyrit-0.5.0-r1 ~amd64
+# required by net-wireless/pyrit-0.5.0_p20180801::pentoo[opencl]
+# required by net-wireless/wifite-2.2.5-r3::pentoo
+# required by wifite (argument)
+=net-wireless/cpyrit-opencl-0.5.0 ~amd64
+# required by wifite (argument)
+=net-wireless/wifite-2.2.5-r3 ~amd64
+# required by net-wireless/wifite-2.2.5-r3::pentoo
+# required by wifite (argument)
+=net-wireless/hcxdumptool-6.0.0 ~amd64
+# required by net-wireless/wifite-2.2.5-r3::pentoo
+# required by wifite (argument)
+=net-wireless/pyrit-0.5.0_p20180801 ~amd64
+# required by @preserved-rebuild (argument)
+=dev-util/radare2-4.3.1 ~amd64
+# required by powershell-bin (argument)
+=dev-lang/powershell-bin-6.2.4 ~amd64
+# required by metasploit (argument)
+=net-analyzer/metasploit-4.17.21-r8 ~amd64
+# required by dev-ruby/railties-4.2.11.1::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::pentoo[ruby_targets_ruby25]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby25]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/actionpack-4.2.11.1 ~amd64
+# required by dev-ruby/rex-sslscan-0.1.5::gentoo[ruby_targets_ruby25]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/rex-socket-0.1.21 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/msgpack-1.3.3 ~amd64
+# required by dev-ruby/actionpack-4.2.11.1::pentoo[ruby_targets_ruby25]
+# required by dev-ruby/railties-4.2.11.1::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::pentoo[ruby_targets_ruby25]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby25]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/activesupport-4.2.11.1-r1 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/pdf-reader-2.4.0 ~amd64
+# required by dev-ruby/actionpack-4.2.11.1::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/railties-4.2.11.1::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-concern-2.0.5::pentoo[ruby_targets_ruby25]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby25]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/actionview-4.2.11.1 ~amd64
+# required by dev-ruby/metasploit_data_models-2.0.16::pentoo[ruby_targets_ruby25]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/arel-helpers-2.11.0 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/faker-1.9.6-r1 ~amd64
+# required by dev-ruby/metasploit-model-2.0.4::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/railties-4.2.11.1 ~amd64
+# required by dev-ruby/postgres_ext-3.0.1::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/activerecord-4.2.11.1 ~amd64
+# required by dev-ruby/metasploit_data_models-2.0.16::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/recog-2.3.7 ~amd64
+# required by dev-ruby/rex-bin_tools-0.1.6::gentoo[ruby_targets_ruby25]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/rex-text-0.2.24 ~amd64
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/octokit-4.16.0 ~amd64
+# required by dev-ruby/activerecord-4.2.11.1::pentoo[ruby_targets_ruby24]
+# required by dev-ruby/arel-helpers-2.11.0::gentoo[ruby_targets_ruby24]
+# required by dev-ruby/metasploit_data_models-2.0.16::pentoo[ruby_targets_ruby25]
+# required by dev-ruby/metasploit-credential-2.0.14::pentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/activemodel-4.2.11.1 ~amd64
+# required by dev-ruby/octokit-4.16.0::gentoo[ruby_targets_ruby24]
+# required by net-analyzer/metasploit-4.17.21-r8::pentoo[ruby_targets_ruby25]
+# required by metasploit (argument)
+=dev-ruby/sawyer-0.8.2 ~amd64
+# required by net-analyzer/armitage-20160709-r1::pentoo
+# required by armitage (argument)
+=dev-java/sleep-2.1-r1 ~amd64
+# required by net-analyzer/armitage-20160709-r1::pentoo
+# required by armitage (argument)
+=dev-java/msgpack-0.6.12 ~amd64
+# required by armitage (argument)
+=net-analyzer/armitage-20160709-r1 ~amd64
+# required by net-analyzer/armitage-20160709-r1::pentoo
+# required by armitage (argument)
+=dev-java/jgraphx-2.1.1.2 ~amd64
+# required by maltego (argument)
+=app-forensics/maltego-4.2.7.12570 ~amd64
+# required by =x11-wm/awesome-4.3-r1 (argument)
+=x11-wm/awesome-4.3-r1 ~amd64
+# required by net-im/teams (argument)
+=net-im/teams-1.3.00.958 ~amd64
+# required by julia (argument)
+=dev-lang/julia-1.4.0-r1 ~amd64
+# required by dev-lang/julia-1.4.0-r1::gentoo
+# required by julia (argument)
+=dev-libs/openspecfun-0.5.1 ~amd64
+# required by dev-lang/julia-1.4.0-r1::gentoo
+# required by julia (argument)
+=sci-libs/openlibm-0.7.0 ~amd64
+# required by =sci-libs/spqr-1.3.1 (argument)
+=sci-libs/spqr-1.3.1 ~amd64
+=games-roguelike/dwarf-fortress-0.44.12 ~amd64
+
+# required by ppsspp (argument)
+=games-emulation/ppsspp-1.5.4-r2 ~amd64
+# required by edictionary (argument)
+=app-dicts/edictionary-2.6-r1 ~amd64
+# required by ncrack (argument)
+=net-analyzer/ncrack-0.7 ~amd64
+# required by dev-ruby/faraday-1.0.1::gentoo[ruby_targets_ruby25]
+# required by dev-ruby/faraday (argument)
+=dev-ruby/multipart-post-2.1.1 ~amd64
+# required by dev-ruby/faraday (argument)
+=dev-ruby/faraday-1.0.1 ~amd64
+# required by nikto (argument)
+=net-analyzer/nikto-2.1.6_p20190508 ~amd64
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.12 ~amd64
+# required by dirb (argument)
+=net-analyzer/dirb-2.22 ~amd64
+# required by =dev-lisp/sbcl-2.0.9 (argument)
+=dev-lisp/sbcl-2.0.9 ~amd64
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.13 ~amd64
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.14 ~amd64
+# required by discord-bin (argument)
+=net-im/discord-bin-0.0.15 ~amd64
+# required by @preserved-rebuild (argument)
+=media-video/obs-studio-26.1.2-r1 ~amd64
+# required by bluez-alsa (argument)
+=media-sound/bluez-alsa-3.1.0 ~amd64
+# required by net-im/teams (argument)
+=net-im/teams-1.4.00.7556 ~amd64
+# required by vscode (argument)
+=app-editors/vscode-1.57.1 ~amd64
+# required by app-misc/elasticsearch (argument)
+=app-misc/elasticsearch-7.13.2 ~amd64
+# required by kibana-bin (argument)
+=www-apps/kibana-bin-7.13.2 ~amd64
+=app-admin/logstash-bin-7.13.2 ~amd64
+# required by app-emulation/vagrant-2.2.9-r1::gentoo[ruby_targets_ruby25]
+# required by vagrant (argument)
+=dev-ruby/vagrant_cloud-2.0.3-r1 ~amd64
+# required by app-emulation/vagrant-2.2.9-r1::gentoo[ruby_targets_ruby25]
+# required by vagrant (argument)
+=dev-ruby/hashicorp-checkpoint-0.1.5-r1 ~amd64
+# required by vagrant (argument)
+=app-emulation/vagrant-2.2.9-r1 ~amd64
+# required by app-emulation/vagrant-2.2.9-r1::gentoo[ruby_targets_ruby25]
+# required by vagrant (argument)
+=dev-ruby/rubyzip-2.3.0 ~amd64
+# required by www-client/firefox-89.0.2::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-libs/nss-3.67 ~amd64
+# required by =www-client/firefox-89.0.2 (argument)
+=www-client/firefox-89.0.2 ~amd64
+# required by dev-python/wcmatch-8.2::gentoo
+# required by app-admin/ansible-lint-5.0.12::gentoo
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/backrefs-5.0.1 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/click-help-colors-0.9 ~amd64
+# required by dev-python/wcmatch-8.2::gentoo
+# required by app-admin/ansible-lint-5.0.12::gentoo
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/bracex-2.1.1 ~amd64
+# required by app-admin/ansible-lint-5.0.12::gentoo
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/wcmatch-8.2 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-util/cookiecutter-1.7.3 ~amd64
+# required by ansible-molecule (argument)
+=app-admin/ansible-molecule-3.3.4 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/subprocess-tee-0.3.2 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/enrich-1.2.6 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/rich-10.5.0 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=app-admin/ansible-lint-5.0.12 ~amd64
+# required by app-admin/ansible-molecule-3.3.4::gentoo[python_single_target_python3_9]
+# required by ansible-molecule (argument)
+=dev-python/cerberus-1.3.2 ~amd64
+# required by minikube (argument)
+=sys-cluster/minikube-1.19.0 ~amd64
+# required by cowsay (argument)
+=games-misc/cowsay-3.04-r1 ~amd64
+# required by xonotic (argument)
+=games-fps/xonotic-0.8.2 ~amd64

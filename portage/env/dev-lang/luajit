@@ -1,0 +1,2 @@
+CFLAGS="-flto -ffat-lto-objects -fuse-linker-plugin"
+LDFLAGS="-fuse-linker-plugin"

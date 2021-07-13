@@ -1,0 +1,9 @@
+keycode  18 = 9 braceleft 9 braceleft
+keycode  19 = 0 braceright 0 braceright
+keycode  34 = parenleft bracketleft parenleft bracketleft
+keycode  35 = parenright bracketright parenright bracketright
+keycode  78 = Caps_Lock NoSymbol Caps_Lock
+keycode 121 = XF86AudioMute NoSymbol XF86AudioMute
+keycode 122 = XF86AudioLowerVolume NoSymbol XF86AudioLowerVolume
+keycode 123 = XF86AudioRaiseVolume NoSymbol XF86AudioRaiseVolume
+keycode 107 = Super_L
